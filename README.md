@@ -4,6 +4,9 @@ Official implementation of __"PH-Net: Semi-Supervised Breast Lesion Segmentation
 
 ![image](docs/framework.jpg)
 
+Notes
+-----
+Due to the confidentiality agreement in commercial cooperation, we only provide codes of core modules and the whole trainable models for the convenience of comparisons.
 
 Requirements
 -----
