@@ -13,6 +13,7 @@ Requirements
 * python >= 3.6
 * pytorch >= 1.10.2
 
+<!---
 Citation
 -----
 If you find our code useful, please cite our paper.
@@ -25,6 +26,8 @@ If you find our code useful, please cite our paper.
 }
 ```
 
+
 Acknowledgement
 -----
 We thank [U²PL](https://github.com/Haochen-Wang409/U2PL) for part of their codes.
+--->
