@@ -2,7 +2,7 @@ PH-Net
 =====
 Official implementation of __"PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness"__, CVPR2024.
 
-![image](docs\framework.jpg)
+![image](docs/framework.jpg)
 
 
 Requirements
@@ -20,3 +20,8 @@ If you find our code useful, please cite our paper.
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
+```
+
+Acknowledgement
+-----
+We thank [U²PL](https://github.com/Haochen-Wang409/U2PL) for part of their codes.
