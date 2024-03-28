@@ -2,6 +2,7 @@ PH-Net
 =====
 Official implementation of __"PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness"__, CVPR2024.
 
+![image](docs\framework.jpg)
 
 
 Requirements
