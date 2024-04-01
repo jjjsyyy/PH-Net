@@ -14,18 +14,19 @@ Requirements
 * pytorch >= 1.10.2
 
 <!---
+--->
 Citation
 -----
 If you find our code useful, please cite our paper.
 ```bib
-@inproceedings{jiang2024ph,
+@conference{jiang2024ph,
   title={PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness},
   author={Jiang, Siyao and Wu, Huisi and Chen, Junyang and Zhang, Qin and Qin, Jing},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year={2024}
 }
 ```
---->
+
 
 Acknowledgement
 -----
