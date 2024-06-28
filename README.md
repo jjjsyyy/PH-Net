@@ -23,6 +23,7 @@ If you find our code useful, please cite our paper.
   title={PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness},
   author={Jiang, Siyao and Wu, Huisi and Chen, Junyang and Zhang, Qin and Qin, Jing},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11418--11427},
   year={2024}
 }
 ```
